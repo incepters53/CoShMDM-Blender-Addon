@@ -1,4 +1,4 @@
-# BlebdMoGen Blender-Addon
+# BlendMoGen Blender-Addon
 Blender addon implements unified motion generation pipeline for rendering text-to-motion, interaction generation, and reaction motion generation. (https://incepters53.github.io/blendmogen/).
 
 ![teaser](./git-assets/addon-3.png)
